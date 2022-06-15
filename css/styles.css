@@ -7,7 +7,7 @@ body {
 
 h1 {
   color: #66BFBF;
-  font-size: 5.625rem;
+  font-size: 7.625rem;
   margin: 50px auto 0 auto;
   font-family: 'Sacramento', cursive;
 }
@@ -15,18 +15,20 @@ h1 {
 h2 {
   color: #66BFBF;
   font-family: 'Montserrat', sans-serif;
-  font-size: 2.5rem;
+  font-size: 3.5rem;
   font-weight: normal;
   padding-bottom: 10px;
 }
 
 h3 {
   color: #11999E;
+  font-size: 1.4rem;
   font-family: 'Montserrat', sans-serif;
 }
 
 p {
   line-height: 2;
+  font-size: 1rem;
 }
 
 hr {
@@ -58,8 +60,8 @@ a:hover {
 }
 
 .bottom-container {
-  background-color: #66BFBF;
-  padding: 50px 0 20px;
+  background-color: #a8dede;
+  padding: 50px 0 10px;
 }
 
 .skill-row {
@@ -83,13 +85,13 @@ a:hover {
 }
 
 .footer-link {
-  font-size: 1.50rem;
+  font-size: 2rem;
 }
 
 .copyright {
   color: #EAF6F6;
-  font-size: 0.85rem;
-  padding: 20px 0;
+  font-size: 1.4rem;
+  padding: 10px 0;
 }
 
 .top-cloud {
@@ -109,19 +111,21 @@ a:hover {
 }
 
 .pfp {
-  width: 25%;
+  width: 20%;
 }
 
 .skill-1 {
   width: 25%;
   float: left;
   margin-right: 30px;
+  margin-top: -35px;
 }
 
 .skill-2 {
   width: 25%;
   float: right;
   margin-left: 30px;
+  margin-top: -35px;
 }
 
 .btn {
@@ -133,10 +137,10 @@ a:hover {
   background-image: linear-gradient(to bottom, #11cdd4, #11999e);
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
-  border-radius: 8px;
+  border-radius: 25px;
   font-family: 'Montserrat', sans-serif;
   color: #ffffff;
-  font-size: 20px;
+  font-size: 30px;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
 }
